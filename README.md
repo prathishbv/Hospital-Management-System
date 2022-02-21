@@ -7,7 +7,7 @@ This is the desktop application for the Hospital management system. This project
 	
 # Clone the repository
 ```
-https://github.com/prathishbv/Firm-Management-System.git
+git clone https://github.com/prathishbv/Hospital-Management-System.git
 ```
 
 # Install the requirements if you need to  execute them as python files for reference:
@@ -17,7 +17,7 @@ pip install requirements.txt
 
 # Navigate to the exe by giving
 ```
-cd HMS/softwareEngg.exe
+cd Hospital-Management-System/softwareEngg.exe
 ```
 
 # File Structure and explanation
